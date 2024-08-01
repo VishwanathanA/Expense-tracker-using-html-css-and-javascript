@@ -21,7 +21,8 @@ button{
     margin: 20px 0px 40px;
 }
 input{
-    height: 25px;
+     height: 30px;
+     width: 160px;
 }
 table{
     height: 100px;
